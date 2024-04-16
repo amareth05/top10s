@@ -1,0 +1,39 @@
+body {
+    background-color: seashell;
+    color: palevioletred;
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    color: hotpink;
+
+}
+
+a:visited {
+    color: pink;
+}
+
+img {
+    border: 3px dotted pink;
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+
+.imgcenter {
+    display: block;
+    margin: auto;
+}
